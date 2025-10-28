@@ -1,4 +1,8 @@
-<!-- 🌸 FINAL POLISHED PINK GITHUB README FOR TOMISIN OKEOWO 🌸 -->
+<!-- <!-- 🌸 Dark Pink Hero -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0e14,50:7a104a,100:ff69b4&text=Tomisin%20Okeowo&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20•%20Android%20%26%20Web&descAlignY=65&descAlign=50" width="100%" alt="hero banner"/>
+</p>
+
 <div align="center">
 
  <!-- 🌸 Animated Typing Header -->
