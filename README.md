@@ -36,8 +36,6 @@
   Gained exposure to real-world software engineering, cloud, and cybersecurity workflows.  
 - 🎓 **Certificates:** Mastercard Cybersecurity · Deloitte Software Engineering Sim · Accenture Forage Virtual Internship  
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
 ## 🚀 Selected Projects
@@ -57,7 +55,7 @@
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -68,14 +66,13 @@
 
 </div>
 
----
 
 ## 🧩 Profile Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomisinokeowo&theme=radical" alt="Profile summary card"/>
 </div>
 
----
+
 
 ## 🌸 Highlights from My Journey
 - 🧩 Developed microservices and APIs during Bagghunt internship  
@@ -83,7 +80,7 @@
 - 🧠 Strong understanding of **software architecture**, **data structures**, and **cybersecurity principles**  
 - ✨ Committed to producing elegant, maintainable code with a focus on user experience  
 
----
+
 
 ## 💌 Connect with Me
 <p align="center">
