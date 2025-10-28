@@ -1,99 +1,98 @@
-<!-- 🌸 TOMISIN JAYDE OKEOWO | PINK PORTFOLIO PROFILE 🌸 -->
-
+<!-- 🌸 FINAL POLISHED PINK GITHUB README FOR TOMISIN OKEOWO 🌸 -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Software+Engineering+Student+💻;Freelance+Software+Engineer+%F0%9F%92%BB;I+Code+in+Pink+%F0%9F%92%95"<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Software+Engineer+in+Training+💻;Creative+Problem+Solver+%26+Tech+Enthusiast+✨" alt="Typing animation" />
-</div>
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Computer+Science+Undergraduate+💻;Software+Engineer+in+Training+🚀;I+Code+in+Pink+%26+Logic+💖" alt="Typing animation" />
 
-
+  <!-- Soft Banner -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=90&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
-
-  <p>
-    <img src="https://img.shields.io/badge/Theme-Pink-ff69b4?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=tomisinokeowo&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-  </p>
 
 </div>
 
 ---
 
 ## 💕 About Me
-🎓 **Computer Science student** at Keele University (Expected First Class)  
-💻 Experienced in **software engineering, automation, and web development**  
-🧠 Passionate about creating **efficient, secure, and user-friendly systems**  
-🌱 Exploring **hybrid mobile frameworks (React Native, Flutter, Ionic)**  
-☕ Fueled by creativity, coffee, and clean UI design  
+- 🎓 **Computer Science student at Keele University (Expected First Class)**  
+- 💡 Experienced in **software engineering, automation, and web development**  
+- 🧠 Passionate about creating **efficient, secure, and user-friendly systems**  
+- 🌱 Exploring **hybrid mobile frameworks** (React Native, Flutter, Ionic)  
+- ☕ Fueled by **creativity, coffee, and clean UI design**  
+
+---
 
 ## 💻 Core Skills
 **Languages:** Python · Java · JavaScript · SQL · PHP  
-**Frameworks & Tools:** React · Flask · Docker · Android Studio · AWS · Git  
-**Concepts:** OOP · REST APIs · Agile · CI/CD · Data Structures & Algorithms
+**Frameworks & Libraries:** React · Flask · Bootstrap · jQuery · Android SDK  
+**Tools & Platforms:** Git · Docker · AWS (S3, Glue) · REST APIs · Linux  
+**Concepts:** OOP · Data Structures & Algorithms · Agile · CI/CD  
 
 ---
 
 ## 🏆 Highlights
-- 💼 **Software Engineering Intern – Bagghunt Ltd**  
-  Built and deployed Flask + Docker automation tools improving data workflows.  
-- 💻 **Freelance Software Engineer**  
-  Designed full-stack apps for clients using Python, React & Tailwind CSS.  
-- 🌐 **Technology Insight Week – Bright Network IEUK**  
-  Explored cloud, cybersecurity & data analytics workflows.  
-- 🥇 **Certificates:** Mastercard Cybersecurity | Deloitte Software Engineering Sim | Accenture Forage Virtual Internship  
-- 🎯 **Career goal:** Graduate Software Engineer / Full-Stack Developer  
-
-## 🚀 Selected Projects
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| 📱 Android Global Location App | Real-time GPS tracking + Google API integration | Java, Android Studio, REST API | [View Repo](https://github.com/tomisinokeowo/android-global-location-app) |
-| 🏨 Hotel Booking System | Web reservation and admin system | PHP, MySQL, JS, HTML/CSS | [View Repo](https://github.com/tomisinokeowo/Hotel-Booking-System-Website) |
-| 🌐 Personal Portfolio Website | Responsive portfolio site with live modules | HTML, CSS, JS, PHP | [View Repo](https://github.com/tomisinokeowo/Personal-Portfolio-Website) |
+- 💼 **Software Engineering Intern – Bagghunt Ltd (2025)**  
+  Developed Flask + Docker-based automation tools that improved workflow efficiency and data accuracy.  
+- 💻 **Freelance Software Engineer (2022–Present)**  
+  Built responsive full-stack apps using Python, React, and Tailwind CSS for client projects.  
+- ☁️ **Technology Insight Week – Bright Network IEUK (2024)**  
+  Gained exposure to real-world software engineering, cloud, and cybersecurity workflows.  
+- 🎓 **Certificates:** Mastercard Cybersecurity · Deloitte Software Engineering Sim · Accenture Forage Virtual Internship  
 
 ---
 
-## 🧰 Tech Stack
-`Python` · `Java` · `JavaScript` · `SQL` · `HTML/CSS` · `PHP`  
-`React` · `Flask` · `Android SDK` · `AWS (S3, Glue)` · `Docker` · `Linux`  
-`Git` · `Tailwind CSS` · `Bootstrap` · `REST APIs` · `CI/CD` · `Agile (Scrum)`
-
----
-
-## ✨ Featured Projects
-
-| 🌟 Project | 📝 Summary | 🧩 Stack | 🔗 Link |
-|-------------|-------------|-----------|----------|
-| 📱 **Android Global Location App** | Real-time GPS tracker using Google Location Services. | Java · Android Studio · REST API | [View Repo](https://github.com/tomisinokeowo/android-global-location-app) |
-| 🏨 **Hotel Booking System Website** | Dynamic web app for hotel reservations + admin panel. | PHP · MySQL · HTML/CSS/JS | [View Repo](https://github.com/tomisinokeowo/Hotel-Booking-System-Website) |
-| 🌐 **Personal Portfolio Website** | Interactive CV showcase with live weather & secure library module. | HTML · CSS · PHP · Bootstrap | [View Repo](https://github.com/tomisinokeowo/Personal-Portfolio-Website) |
-| 🔒 **Access Control Simulation** | Java RBAC model for enterprise-style permission control. | Java · OOP | — |
-
----
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 🚀 Selected Projects
+| 🌟 Project | 📝 Description | 🧩 Stack | 🔗 Link |
+|---|---|---|---|
+| 📱 **Android Global Location App** | Real-time GPS tracking + Google API integration | Java, Android Studio, REST APIs | [View Repo](https://github.com/tomisinokeowo/android-global-location-app) |
+| 🏨 **Hotel Booking System Website** | Web reservation & admin management system | PHP, MySQL, JS, HTML/CSS | [View Repo](https://github.com/tomisinokeowo/Hotel-Booking-System-Website) |
+| 🌐 **Personal Portfolio Website** | Responsive personal portfolio with CV & weather system | HTML, CSS, JS, PHP | [View Repo](https://github.com/tomisinokeowo/Personal-Portfolio-Website) |
+| 🔐 **Access Control Simulation** | Role-based permission system for secure access layers | Java, OOP | – |
+
+<details>
+<summary><b>📖 See More Projects</b></summary>
+
+- 🎨 **UI Components Library** — A collection of reusable front-end pieces built with HTML/CSS/JS.  
+- 📊 **Data Visualizer** — Python Flask project displaying real-time analytics.  
+- ⚙️ **Hybrid App Framework Research** — Comparing React Native vs Flutter for cross-platform builds.  
+
+</details>
+
+---
+
+## 📈 GitHub Stats
 <div align="center">
 
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=tomisinokeowo&show_icons=true&bg_color=1a1a1a&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true"/>
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinokeowo&layout=compact&bg_color=1a1a1a&title_color=ff69b4&text_color=ffffff&hide_border=true"/>
-
-  <br>
-
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=tomisinokeowo&background=1a1a1a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&hide_border=true"/>
-
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomisinokeowo&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tomisinokeowo&show_icons=true&bg_color=1a1a1a&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinokeowo&layout=compact&bg_color=1a1a1a&title_color=ff69b4&text_color=ffffff&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=tomisinokeowo&background=1a1a1a&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ---
 
+## 🧩 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomisinokeowo&theme=radical" alt="Profile summary card"/>
+</div>
 
-```html
+---
+
+## 🌸 Highlights from My Journey
+- 🧩 Developed microservices and APIs during Bagghunt internship  
+- 💻 Delivered full-stack freelance projects using Flask, React, and Tailwind CSS  
+- 🧠 Strong understanding of **software architecture**, **data structures**, and **cybersecurity principles**  
+- ✨ Committed to producing elegant, maintainable code with a focus on user experience  
+
+---
+
+## 💌 Connect with Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomisinokeowo/tomisinokeowo/output/snake.svg" alt="Snake animation" />
+  <a href="mailto:tomijayde1@hotmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/Tomisin-O-A24533298/">💼 LinkedIn</a> •
+  <a href="https://github.com/tomisinokeowo">💖 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer&text=Thanks%20for%20visiting!%20💖&fontColor=1a1a1a" width="100%"/>
 </p>
