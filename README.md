@@ -17,7 +17,8 @@
 - 🌱 Exploring **hybrid mobile frameworks** (React Native, Flutter, Ionic)  
 - ☕ Fueled by **creativity, coffee, and clean UI design**  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
+
 
 ## 💻 Core Skills
 **Languages:** Python · Java · JavaScript · SQL · PHP  
@@ -25,7 +26,8 @@
 **Tools & Platforms:** Git · Docker · AWS (S3, Glue) · REST APIs · Linux  
 **Concepts:** OOP · Data Structures & Algorithms · Agile · CI/CD  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
+
 
 ## 🏆 Highlights
 - 💼 **Software Engineering Intern – Bagghunt Ltd (2025)**  
@@ -66,12 +68,15 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
+
 
 ## 🧩 Profile Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomisinokeowo&theme=radical" alt="Profile summary card"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
 
 ## 🌸 Highlights from My Journey
@@ -79,6 +84,8 @@
 - 💻 Delivered full-stack freelance projects using Flask, React, and Tailwind CSS  
 - 🧠 Strong understanding of **software architecture**, **data structures**, and **cybersecurity principles**  
 - ✨ Committed to producing elegant, maintainable code with a focus on user experience  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
 
 
