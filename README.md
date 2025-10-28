@@ -1,13 +1,13 @@
-<!-- 🌸 TOMISIN OKEOWO | FINAL DARK PINK PROFILE README 🌸 -->
+<!-- 🌸 TOMISIN OKEOWO | FINAL DARK PINK GITHUB README 🌸 -->
 
-<!-- Hero Banner -->
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0e14,50:7a104a,100:ff69b4&text=Tomisin%20Okeowo&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20•%20Android%20%26%20Web%20Developer&descAlignY=65&descAlign=50" width="100%" alt="hero banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0e14,50:7a104a,100:ff69b4&text=Tomisin%20Okeowo&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20•%20Android%20%26%20Web%20Developer&descAlignY=65&descAlign=50" alt="hero banner"/>
 </p>
 
-<!-- Animated Typing Header -->
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Computer+Science+Undergraduate+💻;Software+Engineer+in+Training+🚀;I+Code+in+Pink+%26+Logic+💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Computer+Science+Undergraduate+💻;Software+Engineer+in+Training+🚀;I+Code+in+Pink+%26+Logic+💖" alt="Typing SVG"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
+<p><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/></p>
 
 ## 🚀 Featured Projects
 <table>
