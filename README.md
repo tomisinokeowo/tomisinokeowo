@@ -102,12 +102,3 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake (Optional)
-> Add this if you’ve set up the GitHub Action for it.
-
-```html
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tomisinokeowo/tomisinokeowo/output/snake.svg" alt="Snake animation" />
-</p>
