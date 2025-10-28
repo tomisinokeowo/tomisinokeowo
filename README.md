@@ -6,7 +6,7 @@
 
 <!-- Soft Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=90&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=100&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
 </p>
 
 
