@@ -1,13 +1,16 @@
 <!-- 🌸 FINAL POLISHED PINK GITHUB README FOR TOMISIN OKEOWO 🌸 -->
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Computer+Science+Undergraduate+💻;Software+Engineer+in+Training+🚀;I+Code+in+Pink+%26+Logic+💖" alt="Typing animation" />
+ <!-- 🌸 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Computer+Science+Undergraduate+💻;Software+Engineer+in+Training+🚀;I+Code+in+Pink+%26+Logic+💖" alt="Typing SVG" />
+</p>
 
-  <!-- Soft Banner -->
+<!-- Soft Banner -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=90&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
+</p>
 
-</div>
 
 ---
 
