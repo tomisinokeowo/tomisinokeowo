@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=90&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
 </p>
----
+
 
 ## 💕 About Me
 - 🎓 **Computer Science student at Keele University (Expected First Class)**  
