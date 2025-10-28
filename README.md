@@ -2,7 +2,10 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Software+Engineering+Student+💻;Freelance+Software+Engineer+%F0%9F%92%BB;I+Code+in+Pink+%F0%9F%92%95" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Software+Engineering+Student+💻;Freelance+Software+Engineer+%F0%9F%92%BB;I+Code+in+Pink+%F0%9F%92%95"<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tomisin+🌸;Software+Engineer+in+Training+💻;Creative+Problem+Solver+%26+Tech+Enthusiast+✨" alt="Typing animation" />
+</div>
+
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffc0cb&height=90&section=header&text=Welcome!&fontColor=1a1a1a&fontSize=36&animation=twinkling" />
 
@@ -22,6 +25,11 @@
 🌱 Exploring **hybrid mobile frameworks (React Native, Flutter, Ionic)**  
 ☕ Fueled by creativity, coffee, and clean UI design  
 
+## 💻 Core Skills
+**Languages:** Python · Java · JavaScript · SQL · PHP  
+**Frameworks & Tools:** React · Flask · Docker · Android Studio · AWS · Git  
+**Concepts:** OOP · REST APIs · Agile · CI/CD · Data Structures & Algorithms
+
 ---
 
 ## 🏆 Highlights
@@ -33,6 +41,13 @@
   Explored cloud, cybersecurity & data analytics workflows.  
 - 🥇 **Certificates:** Mastercard Cybersecurity | Deloitte Software Engineering Sim | Accenture Forage Virtual Internship  
 - 🎯 **Career goal:** Graduate Software Engineer / Full-Stack Developer  
+
+## 🚀 Selected Projects
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| 📱 Android Global Location App | Real-time GPS tracking + Google API integration | Java, Android Studio, REST API | [View Repo](https://github.com/tomisinokeowo/android-global-location-app) |
+| 🏨 Hotel Booking System | Web reservation and admin system | PHP, MySQL, JS, HTML/CSS | [View Repo](https://github.com/tomisinokeowo/Hotel-Booking-System-Website) |
+| 🌐 Personal Portfolio Website | Responsive portfolio site with live modules | HTML, CSS, JS, PHP | [View Repo](https://github.com/tomisinokeowo/Personal-Portfolio-Website) |
 
 ---
 
@@ -53,6 +68,7 @@
 | 🔒 **Access Control Simulation** | Java RBAC model for enterprise-style permission control. | Java · OOP | — |
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 <div align="center">
