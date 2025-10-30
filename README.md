@@ -1,4 +1,4 @@
-<!-- 🌸 FINAL POLISHED PINK GITHUB README FOR TOMISIN OKEOWO 🌸 -->
+<!-- 🌸 FINAL POLISHED🌸 -->
 <!-- 🌸 Animated Typing Header -->
 
 
