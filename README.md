@@ -1,8 +1,5 @@
 <!-- 🌸 FINAL POLISHED PINK GITHUB README FOR TOMISIN OKEOWO 🌸 -->
 <!-- 🌸 Animated Typing Header -->
-<p align="center">
-  <img src="https://github.com/tomisinokeowo/tomisinokeowo/blob/main/tomisinokeowo.png" alt="Tomisin Okeowo Banner" width="100%">
-</p>
 
 
 <p align="center">
